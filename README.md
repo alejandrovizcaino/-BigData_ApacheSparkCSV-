@@ -1,4 +1,4 @@
-# -BigData_ApacheSparkCSV-
+# BigData_ApacheSparkCSV
 Práctica 1 de la asignatura Big Data, utilizando Apache Spark.
 
 Realización de la misma práctica que en BigData_HadoopCSV, pero esta vez utilizando el lenguaje Scala y Apache Spark.
