@@ -11,5 +11,5 @@ Las versiones del software utilizado en el desarrollo de la práctica son las si
     Sistema Operativo: Linux Mint 20 Ulyana.
     Oracle VM Virtual Box 6.1
     Apache Spark 3.0.1
-    Scala version 2.12.10
+    Scala 2.12.10
 
